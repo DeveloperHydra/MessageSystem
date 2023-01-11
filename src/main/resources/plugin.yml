@@ -1,0 +1,12 @@
+name: MessageSystem
+version: '${project.version}'
+main: wiki.hydra.messagesystem.MessageSystem
+authors: [Hydra]
+website: https://hydra.wiki
+commands:
+  message:
+    aliases: [msg]
+  reply:
+    aliases: [r]
+  socialspy:
+    aliases: [spy]
